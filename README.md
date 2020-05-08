@@ -13,4 +13,4 @@ https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/DogInceptionV3Data.n
 ## Project Results:
 In summary, the performance of the pre-trained model I built far exceeded the hand made CNN model. The accuracy of the InceptionV3 model (pre-trained on ImageNet) reached 80% while my CNN was about 4%.  This improved performance can be attributed to the vast dataset on which the pre-trained model was built.  In particular, the pre-trained model was also exposed to many dog images, making it particularly ready to classify dog breeds.
 
-Link to Medium story here: 
+Link to Medium story here: https://medium.com/@ankitsingh540/dog-breed-classification-using-a-pre-trained-cnn-model-32d0d8b9cc26
